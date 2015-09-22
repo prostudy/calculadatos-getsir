@@ -20,5 +20,8 @@ Ionic currently best supports iOS 7+ and Android 4.1+.
 
 <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
 
+###Preguntas frecuentes
+<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Preguntas-frecuentes">Ir</a>
+
 ###LICENSE
 CalculaDatos is licensed under GNU GENERAL PUBLIC LICENSE. For more information, see the LICENSE file in this repository.
