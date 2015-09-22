@@ -1,12 +1,10 @@
-# calculadatos-getsir
-Aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
+#¿Qué es CalculaDatos?
+Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
 
-##¿Qué es CalculaDatos?
 Ionic currently best supports iOS 7+ and Android 4.1+.
 
 ##Demo
 [Link del demo web]
-
 
 ##Comunindad
 
