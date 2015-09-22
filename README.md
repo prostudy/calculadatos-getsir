@@ -3,16 +3,17 @@ Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporc
 
 Ionic currently best supports iOS 7+ and Android 4.1+.
 
-##Demo
+###Demo
 [Link del demo web]
 
-##Comunindad
+###Comunindad
 
-##Autores
+###Autores
 
-##Desarrollo
+###Desarrollo
 
-##Documentación
+###Documentación
+<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario">Manual de usuarios</a>
 
-##LICENSE
+###LICENSE
 Ionic is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
