@@ -25,8 +25,17 @@ angular.module('starter.controllers', [])
   console.log("Main");
 })
 
-.controller('MainCtrl2', function($scope) {
+.controller('MainCtrl2', function($scope,$http) {
   console.log("Main2");
+    $scope.data = null;
+    $http.get('json/data.json').then(function(resp) {
+    $scope.data = resp;
+    console.log('Success', resp);
+    // For JSON responses, resp.data contains the result
+  }, function(err) {
+    console.error('ERR', err);
+    // err.status will contain the status code
+  })
 })
 
 .controller('AccountCtrl', function($scope) {

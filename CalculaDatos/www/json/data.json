@@ -206,8 +206,6 @@
                         "name": "Datos de salud",
                         "subcategories": [
                             "Estado de salud físico presente, pasado o futuro",
-                            "Información genética",
-                            "Estado de salud mental presente, pasado o futuro",
                             "Información genética"
                         ]
                     },
