@@ -1,0 +1,231 @@
+[
+    {
+        "id": 1,
+        "nivel_name": "Nivel Estandar",
+        "description": "Valores estandares",
+        "value": 1,
+        "subniveles": [
+            {
+                "name": "Nivel A",
+                "value": 0.2,
+                "categories": [
+                    {
+                        "name": "Datos de identificación y contacto",
+                        "subcategories": [
+                            "Nombre",
+                            "Estado Civil",
+                            "Registro Federal de Contribuyentes(RFC)",
+                            "Clave única de Registro de Población (CURP)",
+                            "Lugar de nacimiento",
+                            "Fecha de nacimiento",
+                            "Nacionalidad",
+                            "Teléfono particular",
+                            "Teléfono celular",
+                            "Correo electrónico",
+                            "Edad",
+                            "Sexo"
+                        ]
+                    },
+                    {
+                        "name": "Datos Laborales",
+                        "subcategories": [
+                            "Puesto o cargo que desempeña o área",
+                            "Domicilio de trabajo",
+                            "Correo electrónico institucional",
+                            "Teléfono institucional",
+                            "Referencias laborales",
+                            "Información generada durante los procesos de reclutamiento, selección y contratación",
+                            "Trayectoria laboral",
+                            "Capacitación laboral"
+                        ]
+                    },
+                    {
+                        "name": "Datos Académicos",
+                        "subcategories": [
+                            "Trayectoria educativa",
+                            "Escolaridad",
+                            "Títulos",
+                            "Cédula profesional",
+                            "Certificados",
+                            "Idioma o lengua",
+                            "Reconocimientos"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nivel B",
+                "value": 0.5,
+                "categories": [
+                    {
+                        "name": "Datos sobre pasatiempos, entretenimiento y diversión",
+                        "subcategories": [
+                            "Pasatiempos",
+                            "Aficiones",
+                            "Deportes que practica",
+                            "Juegos de su interés"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nivel C",
+                "value": 0.8,
+                "categories": [
+                    {
+                        "name": "Datos sobre características físicas",
+                        "subcategories": [
+                            "Color de la piel",
+                            "Color del iris",
+                            "Color del cabello",
+                            "Señas particulares",
+                            "Estatura",
+                            "Peso",
+                            "Cicatrices",
+                            "Fotografía",
+                            "Tipo de sangre"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nivel_name": "Nivel Medio",
+        "description": "Valores Medios",
+        "value": 2,
+        "subniveles": [
+            {
+                "name": "Nivel A",
+                "value": 0.2,
+                "categories": [
+                    {
+                        "name": "Datos migratorios",
+                        "subcategories": [
+                            "Entradaso salidas del país",
+                            "Tiempo de permanencia en el país",
+                            "Calidad migratoria",
+                            "Derechos de residencia",
+                            "Aseguramiento",
+                            "Repatriación"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nivel B",
+                "value": 0.5,
+                "categories": [
+                    {
+                        "name": "Datos ubicación",
+                        "subcategories": [
+                            "Domicilio",
+                            "Localización",
+                            "Información tránsito dentro o fuera del país"
+                        ]
+                    },
+                    {
+                        "name": "Datos Jurídicos",
+                        "subcategories": [
+                            "Antecedentes penales",
+                            "Amparos",
+                            "Demandas",
+                            "Contratos",
+                            "Información sobre procedimientos administrativos (laboral, penal, civil, administrativa)",
+                            "Litigios"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nivel C",
+                "value": 0.8,
+                "categories": [
+                    {
+                        "name": "Datos sobre características físicas",
+                        "subcategories": [
+                            "Color de la piel",
+                            "Color del iris",
+                            "Color del cabello",
+                            "Señas particulares",
+                            "Estatura",
+                            "Peso",
+                            "Cicatrices",
+                            "Fotografía",
+                            "Tipo de sangre"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nivel_name": "Nivel Crítico",
+        "description": "Valores críticos",
+        "value": 3,
+        "subniveles": [
+            {
+                "name": "Nivel C",
+                "value": 0.2,
+                "categories": [
+                    {
+                        "name": "Datos bancarios adicionales",
+                        "subcategories": [
+                            "Código de seguridad tarjeta",
+                            "Fecha de vencimiento",
+                            "Datos de banda magnética",
+                            "Número de identificación personal (PIN)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nivel B",
+                "value": 0.5,
+                "categories": [
+                    {
+                        "name": "Datos sobre la ideología; creencias religiosas, filosóficas o moralesopiniones políticas y afiliación sindical",
+                        "subcategories": [
+                            "Posturas ideológicas",
+                            "Religión que profesa",
+                            "Posturas filosóficas",
+                            "Posturas morales",
+                            "Posturas políticas",
+                            "Afiliación sindical"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nivel C",
+                "value": 0.9,
+                "categories": [
+                    {
+                        "name": "Datos de salud",
+                        "subcategories": [
+                            "Estado de salud físico presente, pasado o futuro",
+                            "Información genética",
+                            "Estado de salud mental presente, pasado o futuro",
+                            "Información genética"
+                        ]
+                    },
+                    {
+                        "name": "Datos sobre vida sexual",
+                        "subcategories": [
+                            "Preferencias sexuales",
+                            "Prácticas o hábitos sexuales"
+                        ]
+                    },
+                    {
+                        "name": "Datos de origen étnico o racial",
+                        "subcategories": [
+                            "Pertenencia a un pueblo, etnia o región"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
