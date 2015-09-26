@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nivel_name": "Nivel Estandar",
-        "description": "Valores estandares",
+        "description": "Datos con baja sensibilidad",
         "value": 1,
         "subniveles": [
             {
@@ -11,7 +11,7 @@
                 "categories": [
                     {
                         "name": "Datos de identificación y contacto",
-                        "subcategories": [
+                        "datos": [
                             "Nombre",
                             "Estado Civil",
                             "Registro Federal de Contribuyentes(RFC)",
@@ -28,7 +28,7 @@
                     },
                     {
                         "name": "Datos Laborales",
-                        "subcategories": [
+                        "datos": [
                             "Puesto o cargo que desempeña o área",
                             "Domicilio de trabajo",
                             "Correo electrónico institucional",
@@ -41,7 +41,7 @@
                     },
                     {
                         "name": "Datos Académicos",
-                        "subcategories": [
+                        "datos": [
                             "Trayectoria educativa",
                             "Escolaridad",
                             "Títulos",
@@ -59,7 +59,7 @@
                 "categories": [
                     {
                         "name": "Datos sobre pasatiempos, entretenimiento y diversión",
-                        "subcategories": [
+                        "datos": [
                             "Pasatiempos",
                             "Aficiones",
                             "Deportes que practica",
@@ -74,7 +74,7 @@
                 "categories": [
                     {
                         "name": "Datos sobre características físicas",
-                        "subcategories": [
+                        "datos": [
                             "Color de la piel",
                             "Color del iris",
                             "Color del cabello",
@@ -102,13 +102,21 @@
                 "categories": [
                     {
                         "name": "Datos migratorios",
-                        "subcategories": [
+                        "datos": [
                             "Entradaso salidas del país",
                             "Tiempo de permanencia en el país",
                             "Calidad migratoria",
                             "Derechos de residencia",
                             "Aseguramiento",
                             "Repatriación"
+                        ]
+                    },
+                    {
+                        "name": "Datos de autenticación",
+                        "datos": [
+                            "Contraseñas",
+                            "Firma eletrónica",
+                            "Firma autógrafa"
                         ]
                     }
                 ]
@@ -119,7 +127,7 @@
                 "categories": [
                     {
                         "name": "Datos ubicación",
-                        "subcategories": [
+                        "datos": [
                             "Domicilio",
                             "Localización",
                             "Información tránsito dentro o fuera del país"
@@ -127,7 +135,7 @@
                     },
                     {
                         "name": "Datos Jurídicos",
-                        "subcategories": [
+                        "datos": [
                             "Antecedentes penales",
                             "Amparos",
                             "Demandas",
@@ -142,20 +150,36 @@
                 "name": "Nivel C",
                 "value": 0.8,
                 "categories": [
-                    {
-                        "name": "Datos sobre características físicas",
-                        "subcategories": [
-                            "Color de la piel",
-                            "Color del iris",
-                            "Color del cabello",
-                            "Señas particulares",
-                            "Estatura",
-                            "Peso",
-                            "Cicatrices",
-                            "Fotografía",
-                            "Tipo de sangre"
+                  {
+                        "name": "Datos patrimoniales y/o financieros",
+                        "datos": [
+                             "Bienes muebles e inmuebles"
+                              ,"Información fiscal"
+                              ,"Historial crediticio"
+                              ,"Ingresos"
+                              ,"Egresos"
+                              ,"Buró de crédito"
+                              ,"Saldos bancarios"
+                              ,"Estados y/o número de cuenta"
+                              ,"Cuentas de inversión"
+                              ,"Número de tarjetas de crédito /débito"
+                              ,"Fianzas"
+                              ,"Seguros"
+                              ,"Afores"
                         ]
+                    },
+                    {
+                        "name":"Biometricos",
+                        "datos":[
+                            "Imagen del iris"
+                            ,"Mapa de venas"
+                            ,"Patrones para identificación del rostro"
+                            ,"Voz"
+                            ,"Huella dactilar"
+                            ,"Palma de la mano"
+                          ]
                     }
+                    
                 ]
             }
         ]
@@ -172,7 +196,7 @@
                 "categories": [
                     {
                         "name": "Datos bancarios adicionales",
-                        "subcategories": [
+                        "datos": [
                             "Código de seguridad tarjeta",
                             "Fecha de vencimiento",
                             "Datos de banda magnética",
@@ -187,7 +211,7 @@
                 "categories": [
                     {
                         "name": "Datos sobre la ideología; creencias religiosas, filosóficas o moralesopiniones políticas y afiliación sindical",
-                        "subcategories": [
+                        "datos": [
                             "Posturas ideológicas",
                             "Religión que profesa",
                             "Posturas filosóficas",
@@ -204,21 +228,23 @@
                 "categories": [
                     {
                         "name": "Datos de salud",
-                        "subcategories": [
-                            "Estado de salud físico presente, pasado o futuro",
-                            "Información genética"
+                        "datos": [
+                            "Estado de salud físico presente, pasado o futuro"
+                            ,"Información genética"
+                            ,"Estado de salud mental presente, pasado o futuro"
+                            ,"Información genética"
                         ]
                     },
                     {
                         "name": "Datos sobre vida sexual",
-                        "subcategories": [
+                        "datos": [
                             "Preferencias sexuales",
                             "Prácticas o hábitos sexuales"
                         ]
                     },
                     {
                         "name": "Datos de origen étnico o racial",
-                        "subcategories": [
+                        "datos": [
                             "Pertenencia a un pueblo, etnia o región"
                         ]
                     }
