@@ -1,6 +1,8 @@
 ###¿Qué es CalculaDatos?
 Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
 
+<h1><a href="http://calculadatos.getsir.mx/" target="_blank">Página oficial</a></h1>
+
 Ionic currently best supports iOS 7+ and Android 4.2+.
 
 ##Tabla de contenidos
