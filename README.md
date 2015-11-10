@@ -4,7 +4,9 @@ Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporc
 Ionic currently best supports iOS 7+ and Android 4.2+.
 
 ##Tabla de contenidos
-
+Versiones de los sistemas operativos y equipos soportados
+Instalación rápida
+Screenshots
 
 ###Demo
 [Link del demo web]
