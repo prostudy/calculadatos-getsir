@@ -12,6 +12,13 @@ Ing. Oscar J. Gascon Busio (PMP)®
 
 ###Instalación rápida
 
+<p>Para poder probar el proyecto se proponen 3 alternativas, las dos primeras son una forma de instalación rápida, la tercera necesita mayor configuración</p>
+<ol>
+<li>Probar el proyecto instalando un archivo apk sobre un dispositivo con sistema operativo Android 4.2+.</li>
+<li>Probar el proyecto ejecutando el entorno de desarrollo Xcode.</li>
+<>3.	Probar el proyecto por medio de un navegador web en una PC o Mac.</li>
+<ol>
+
 <p>Para poder probar el proyecto se proponen instalar un archivo apk sobre un dispositivo con sistema operativo Android 4.2+:</p>
 
 <p>1.- Ingresar a la página oficial de la aplicación: http://calculadatos.getsir.mx/</p>
