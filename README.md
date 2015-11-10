@@ -32,6 +32,17 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 
 <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
 
+###Pantallas
+
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de la Calculadora.png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de Principios de usuario.png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de Resultado de la estimacion.png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla para ingresa un alias..png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de retos..png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de avance de nivel..png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de Conoce +.png" width="35%"/>
+<img src="http://calculadatos.getsir.mx/descargas/images/Pantallas de configuracion.png" width="35%"/>
+
 
 ###LICENSE
 CalculaDatos is licensed under GNU GENERAL PUBLIC LICENSE. For more information, see the LICENSE file in this repository.
