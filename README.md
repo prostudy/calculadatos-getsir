@@ -5,18 +5,6 @@ Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporc
 
 Toda la información se puede consultar directamente desde <b>Página oficial</b><a href="http://calculadatos.getsir.mx/" target="_blank"> http://calculadatos.getsir.mx/</a>
 
-Ionic currently best supports iOS 7+ and Android 4.2+.
-
-##Tabla de contenidos
-Versiones de los sistemas operativos y equipos soportados
-Instalación rápida
-Screenshots
-
-###Demo
-[Link del demo web]
-
-###Comunindad
-
 ###Autores
 
 Ma. Miriam J. Padilla Espinosa<br/>
