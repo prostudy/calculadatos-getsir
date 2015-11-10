@@ -18,7 +18,7 @@ Screenshots
 ###Desarrollo
 
 ###Documentación
-<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank">Manual de usuarios</a>
+<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank">Manual de usuario</a>
 
 <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
 
