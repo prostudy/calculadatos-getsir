@@ -1,7 +1,7 @@
 ###¿Qué es CalculaDatos?
 Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
 
-Ionic currently best supports iOS 7+ and Android 4.1+.
+Ionic currently best supports iOS 7+ and Android 4.2+.
 
 ##Tabla de contenidos
 
