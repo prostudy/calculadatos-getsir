@@ -1,3 +1,5 @@
+<img src="http://calculadatos.getsir.mx/descargas/images/logo.png"/ width="50%">
+
 ###¿Qué es CalculaDatos?
 Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
 
@@ -16,6 +18,9 @@ Screenshots
 ###Comunindad
 
 ###Autores
+
+Ma. Miriam J. Padilla Espinosa<br/>
+Ing. Oscar J. Gascon Busio (PMP)®
 
 ###Desarrollo
 
