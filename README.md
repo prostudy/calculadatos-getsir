@@ -3,7 +3,18 @@
 ###¿Qué es CalculaDatos?
 Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
 
-Toda la información se puede consultar directamente desde <a href="http://calculadatos.getsir.mx/" target="_blank">Página oficial</a>
+Toda la información relacionada a la aplicación se puede encontrar directamente en la <a href="http://calculadatos.getsir.mx/" target="_blank">Página oficial</a>
+
+###Documentación
+<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank">Manual de usuario</a>
+
+<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
+
+###Video
+<video width="320" height="240" controls>
+  <source src="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ###Autores
 
@@ -36,11 +47,6 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 
 
 <p>4.- Instalar la aplicación.</p>
-
-###Documentación
-<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank">Manual de usuario</a>
-
-<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
 
 ###Pantallas
 
