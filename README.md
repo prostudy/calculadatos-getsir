@@ -3,7 +3,7 @@
 ###¿Qué es CalculaDatos?
 Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
 
-Toda la información se puede consultar directamente desde <b>Página oficial</b><a href="http://calculadatos.getsir.mx/" target="_blank"> http://calculadatos.getsir.mx/</a>
+Toda la información se puede consultar directamente desde <a href="http://calculadatos.getsir.mx/" target="_blank">Página oficial</a>
 
 ###Autores
 
