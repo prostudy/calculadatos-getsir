@@ -11,10 +11,8 @@ Toda la información relacionada a la aplicación se puede encontrar directament
 <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
 
 ###Video
-<video width="320" height="240" controls>
-  <source src="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+El video de muestra puede descargarse en la desde la página oficial: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4" target="_blank">Video de la aplicación</a>
+
 
 ###Autores
 
