@@ -26,11 +26,12 @@ Audio:
 > #####  Manual para el desarrollador: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank"> Manual para el desarrollador</a>
 
 CalculaDatos es una aplicación que en versiones avanzadas podría mejorar en un futuro para reforzar en el titular la protección de los datos personales, mediante la estimación del riesgo, considerado que tan expuesto esta el titular con relacion al tipo de datos personales que proporciona (valor en $) y los lugares donde los comparte o deposita, esto permitirá generar mayor conciencia para que los titulares identifiquen todos los posibles lugares donde se encuentran sus datos y fomentará el uso de sus derechos ARCO para reducir su nivel de exposición.
-
+<hr>
 ###Autores
 
 M.A. Miriam J. Padilla Espinosa<br/>
 Ing. Oscar J. Gascon Busio (PMP)®
+<hr>
 
 ##Instalación rápida
 
@@ -59,12 +60,15 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 
 <p>4.- Instalar la aplicación.</p>
 
+<hr>
+
 ###* Alternativa para probar la aplicación dentro de Android Studio y Xcode
 
 <p>Si se desea un mayor control sobre la instalación, es posible utilizar los archivos de la carpeta <a href="https://github.com/prostudy/calculadatos-getsir/tree/master/platforms" target="_blank">platforms.</a></p>
 <p>Estos archivos pueden importarse hacia <a href="https://developer.android.com/intl/es/sdk/index.html" target="_blank">Android Studio</a> o hacia <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> segun la plataforma.</p>
 
-###Pantallas
+<hr>
+###Screenshots
 
 <img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de la Calculadora.png" width="35%"/>
 <img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de Principios de usuario.png" width="35%"/>
