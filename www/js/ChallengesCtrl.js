@@ -6,12 +6,9 @@
 angular.module('starter.controllers')
 
 .controller('ChallengesCtrl', function($scope,$state,InaiService, ChallengesService,$cordovaSQLite,$localstorage,$ionicPopup,$ionicModal,Constants,ParamView,$ionicScrollDelegate) {
-	console.log("Se ha creado un nuevo ChallengesCtrl:"+$scope.$id);
-	
 	$scope.myTitle = '<img src="img/logo_retos.png">';
 	
 	$scope.$on('$ionicView.unloaded', function(){
-		console.log("Se ha DESTRUIDO un  ChallengesCtrl:"+$scope.$id);
 		InaiService.setChallengeMode(false);
 	});
 	

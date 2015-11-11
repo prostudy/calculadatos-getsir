@@ -63,13 +63,12 @@
   	</div>
   	
   	<!-- Muestra la pantalla de retos pero indicando que ya no existen mas preguntas disponibles -->
-  	<div ng-if="completeAllQuestion">
-	  	<h1>{{currentLevel.title}}</h1>
-		<p ng-if="userRegister.nick.length>0">Nickname:{{userRegister.nick}}</p>
-		<p ng-if="userScore > 0">Score:{{userScore}}</p>
-		<p>{{currentLevel.text}}</p>
-		<p>{{currentLevel.description}}</p>
-	    <img src="img/{{currentLevel.img}}"/>
+  	<div ng-if="completeAllQuestion" class="level">
+	  	  <h1>{{currentLevel.title}}</h1>
+    <p ng-if="userScore > 0" class="tip"><i class="fa fa-trophy"></i>Score:{{userScore}}</p>
+    <p class="tip user">{{userRegister.nick}}  {{currentLevel.text}}</p>
+    <p>{{currentLevel.description}}</p>
+    <img src="img/{{currentLevel.img}}"/>
   	</div>
     </ion-content>
 

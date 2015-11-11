@@ -99,7 +99,6 @@ angular.module('starter.services', [])
 	},
 	
 	getValueTotal:function(ctrlId,item){
-		console.log("Soy INAIService y me invoco el controllador:"+ctrlId);
 		dataSelected = [];
 		damageIdsSelected = [];
 		//var EP = 5; 
@@ -146,7 +145,6 @@ angular.module('starter.services', [])
     },
     
     getPersonalDataStandard: function(ctrlId){
-    	console.log("INAIService en getPersonalDataStandard y me solicita el ctrl:"+ctrlId+" y challengeMode es:"+challengeMode);
     	var levelA = challengeMode ? challengeClassification.levelStandard.levelA : classification.levelStandard.levelA;
     	var levelB = challengeMode ? challengeClassification.levelStandard.levelB : classification.levelStandard.levelB;
     	var levelC = challengeMode ? challengeClassification.levelStandard.levelC : classification.levelStandard.levelC;
@@ -169,12 +167,10 @@ angular.module('starter.services', [])
     			personalData.push(levelC.categories[i].personalData[j]);
     		}
     	}
-    	console.log(personalData);
     	return personalData;
     },
     
     getPersonalDataSensitive: function(ctrlId){
-    	console.log("INAIService en getPersonalDataSensitive y me solicita el ctrl:"+ctrlId+" y challengeMode es:"+challengeMode);
     	var levelA = challengeMode ? challengeClassification.levelMedium.levelA : classification.levelMedium.levelA;
     	var levelB = challengeMode ? challengeClassification.levelMedium.levelB : classification.levelMedium.levelB;
     	var levelC = challengeMode ? challengeClassification.levelMedium.levelC : classification.levelMedium.levelC;
@@ -202,7 +198,6 @@ angular.module('starter.services', [])
     },
     
     getPersonalDataCritical: function(ctrlId){
-    	console.log("INAIService en getPersonalDataCritical y me solicita el ctrl:"+ctrlId+" y challengeMode es:"+challengeMode);
     	var levelA = challengeMode ? challengeClassification.levelCritical.levelA : classification.levelCritical.levelA;
     	var levelB = challengeMode ? challengeClassification.levelCritical.levelB : classification.levelCritical.levelB;
     	var levelC = challengeMode ? challengeClassification.levelCritical.levelC : classification.levelCritical.levelC;
@@ -233,7 +228,6 @@ angular.module('starter.services', [])
     
     /*Algoritmo datos estandar*/
     getValueStandard: function(ctrlId){
-    	console.log("INAIService en getValueStandard y me solicita el ctrl:"+ctrlId+" y challengeMode es:"+challengeMode);
     	var levelA = challengeMode ? challengeClassification.levelStandard.levelA : classification.levelStandard.levelA;
     	var levelB = challengeMode ? challengeClassification.levelStandard.levelB : classification.levelStandard.levelB;
     	var levelC = challengeMode ? challengeClassification.levelStandard.levelC : classification.levelStandard.levelC;
@@ -298,7 +292,6 @@ angular.module('starter.services', [])
     	//Total Datos Estandar
     	var numDataEstandar = x1+x2+x3;
     	var totalEstandar = ( totalEstandarLevelA + totalEstandarLevelB + totalEstandarLevelC ) * E * EP * Constants.UM;
-    	console.log("+++++++total Estandar:"+totalEstandar);
     	return {"totalEstandar":totalEstandar, "numDataEstandar":numDataEstandar};
     },
     
@@ -306,7 +299,6 @@ angular.module('starter.services', [])
     
     
     getValueSensitive: function(ctrlId){
-    	console.log("INAIService en getValueSensitive y me solicita el ctrl:"+ctrlId+" y challengeMode es:"+challengeMode);
     	var levelA = challengeMode ?  challengeClassification.levelMedium.levelA : classification.levelMedium.levelA;
     	var levelB = challengeMode ?  challengeClassification.levelMedium.levelB : classification.levelMedium.levelB;
     	var levelC = challengeMode ?  challengeClassification.levelMedium.levelC : classification.levelMedium.levelC;
@@ -371,7 +363,6 @@ angular.module('starter.services', [])
     	//Total Datos Sensible
     	var numDataSensible = y1+y2+y3;
     	var totalSensible = ( totalSensibleLevelA + totalSensibleLevelB + totalSensibleLevelC ) * M * EP * Constants.UM;
-    	console.log("total Sensible:"+totalSensible);
     	//return totalSensible;
     	return {"totalSensible":totalSensible, "numDataSensible":numDataSensible};
     },
@@ -381,7 +372,6 @@ angular.module('starter.services', [])
     
     
     getValueCritical: function(ctrlId){
-    	console.log("INAIService en getValueSensitive y me solicita el ctrl:"+ctrlId+" y challengeMode es:"+challengeMode);
     	var levelA = challengeMode ? challengeClassification.levelCritical.levelA : classification.levelCritical.levelA;
     	var levelB = challengeMode ? challengeClassification.levelCritical.levelB : classification.levelCritical.levelB;
     	var levelC = challengeMode ? challengeClassification.levelCritical.levelC : classification.levelCritical.levelC;
@@ -446,7 +436,6 @@ angular.module('starter.services', [])
     	//Total Datos Criticos
     	var numDataCriticos = z1+z2+z3;
     	var totalCriticos = ( totalCriticoslevelA + totalCriticoslevelB + totalCriticoslevelC ) * S * EP * Constants.UM;
-    	console.log("total Criticos:"+totalCriticos);
     	return {"totalCriticos":totalCriticos, "numDataCriticos":numDataCriticos};
     },
 

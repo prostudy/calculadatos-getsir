@@ -242,7 +242,9 @@ button.button {}
 .damage .scroll img{ margin:0 auto; display:block;}
 
 .level .bar-header button{ color:#fff; background: #526AB0;padding: 0 9px!important;}
-.level.modal{ background: #526AB0;}
+.level,.level.modal{ background: #526AB0;}
+.level:not(.modal){ position:absolute; padding:4%; bottom:0; left:0; top:0}
+.level:not(.modal) img{margin:0 auto; display:block; background:#fff; display:block; width:300px; height:300px; border-radius:100em}
 .level h1{ color:#fff;font-size: 1.6em;text-align: center;}
 .level p{ font-size:1.2em; color: #E4E4E4;}
 .level p.tip{ padding: 7px 10px 7px 10px;/* border-left: 1px solid rgba(255,255,255,.2); */margin: 12px  0 0;font-weight: bolder;color: #FFF;background: rgba(0,0,0,.1); text-align:center;}

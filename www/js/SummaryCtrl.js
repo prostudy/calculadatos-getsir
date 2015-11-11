@@ -97,7 +97,7 @@ angular.module('starter.controllers')
 	        var link = "http://www.inai.org.mx/";
 	        $cordovaSocialSharing.share(message, subject, file, link).then(function(result) {
 		      // Success!
-		    	console.log("Se compartio correctamente.");
+		    	//console.log("Se compartio correctamente.");
 		    }, function(err) {
 		      // An error occured. Show a message to the user
 		    	console.log("Ocurrio un error al compartir.");
