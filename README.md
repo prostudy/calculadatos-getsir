@@ -16,7 +16,7 @@ El video de muestra puede descargarse en la desde la página oficial: <a href="h
 
 ###Autores
 
-Ma. Miriam J. Padilla Espinosa<br/>
+M.A. Miriam J. Padilla Espinosa<br/>
 Ing. Oscar J. Gascon Busio (PMP)®
 
 ###Instalación rápida
