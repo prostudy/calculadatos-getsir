@@ -11,17 +11,17 @@ De forma adicional la aplicación cuenta con una sección de Conoce+ donde el us
 
 Los recursos donde se encuentra información detallada de la aplicación y su desarrollo se encuentran en:
 
-• Página oficial de la aplicación:
+• Página oficial de la aplicación: <a href="http://calculadatos.getsir.mx/" target="_blank">CalculaDatos</a>
 
-• Video de la aplicación:
+• Video de la aplicación: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4 target="_blank">Video</a>
 
-• Presentación CalculaDatos:
+• Presentación CalculaDatos: <a href="#" target="_blank">Presentación</a>
 
-• Repositorio GitHub:
+• Repositorio GitHub: <a href="https://github.com/prostudy/calculadatos-getsir" target="_blank">GitHub</a>
 
-• Manual usuario:
+• Manual usuario: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank"> Manual de usuario</a>
 
-• Manual programador:
+• Manual para el desarrollador: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank"> Manual para el desarrollador</a>
 
 CalculaDatos es una aplicación que en versiones avanzadas podría mejorar en un futuro para reforzar en el titular la protección de los datos personales, mediante la estimación del riesgo, considerado que tan expuesto esta el titular con relacion al tipo de datos personales que proporciona (valor en $) y los lugares donde los comparte o deposita, esto permitirá generar mayor conciencia para que los titulares identifiquen todos los posibles lugares donde se encuentran sus datos y fomentará el uso de sus derechos ARCO para reducir su nivel de exposición.
 Toda la información relacionada a la aplicación se puede encontrar directamente en la <a href="http://calculadatos.getsir.mx/" target="_blank">Página oficial</a>
