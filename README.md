@@ -67,7 +67,7 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 <p>Si se desea un mayor control sobre la instalación, es posible utilizar los archivos de la carpeta <a href="https://github.com/prostudy/calculadatos-getsir/tree/master/platforms" target="_blank">platforms.</a></p>
 <p>Estos archivos pueden importarse hacia <a href="https://developer.android.com/intl/es/sdk/index.html" target="_blank">Android Studio</a> o hacia <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> segun la plataforma.</p>
 
-### Compilar el proyecto
+### Instalación Avanzada.
 Para compilar el proyecto sin utilizar Android Studio o Xcode	es necesario	configurar	el	ambiente	de	trabajo,	para	lo	cual	se	necesitará	instalar	algunos	paquetes.
 
 
@@ -105,6 +105,9 @@ de	la	aplicación y ejecutar el comando:
 
 6.- Ahora se puede instalar la aplicación copiando este archivo a un dispositivo Android, como se indica en el paso número 3 de la Instalación rápida.
 
+Nota: En caso de ser necesario consultar al equipo de desarrollo.
+
+Para más información: http://ionicframework.com/docs/guide/installation.html
 <hr>
 
 ###Screenshots
