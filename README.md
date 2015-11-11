@@ -1,8 +1,29 @@
 <img src="http://calculadatos.getsir.mx/descargas/images/logo.png" width="50%">
 
 ###¿Qué es CalculaDatos?
-Es una aplicación para teléfonos inteligentes que pondere el riesgo de proporcionar datos personales.
+CalculaDatos es una aplicación que permite al usuario conocer a través de una estimación el valor en pesos de los datos personales, para obtener este resultado se tomo como base la fórmula propuesta por el INAI con algunas modificaciones con el objeto de considerar una clasificación más específica basada en la sensibilidad de los datos personales.
 
+Cuando el usuario realiza un cálculo además de la estimación en pesos obtendrá un listado con los posibles daños que pudiera sufrir en caso de alguna vulneración, relacionada con los tipos de datos seleccionados previamente y asociados a estos daños se le proporcionará un conjunto de tips para mejorar la forma en que proteje los datos personales. El resultado obtenido del cálculo tiene la opción para poder ser compartido en las redes sociales o medios que determine el usuario como una forma de difusión para la aplicación.
+
+Para lograr un mayor uso de la app y a su vez reforzar la concientización en protección de los datos personales CalculaDatos proporciona al usuario una sección de Retos donde él podrá dar solución a un conjunto de desafíos clasificados en tres tipos, uno donde podrá estimar el valor de los datos personales a partir de un listado proporcionado, segundo donde a partir de un monto total, él tendrá que determinar la combinación de datos que proporciona el resultado y como tercer tipo el usuario deberá dar respuesta a preguntas sobre definiciones y conceptos relacionados con la protección de los datos personales. Para el soporte a esta sección fue desarrollada una base de datos con 50 retos, clasificados y ponderados por niveles, estos son otorgados al usuario una vez que va dando respuesta y reuniendo determinada puntuación. Los niveles que puede obtener el usuario son: aprendiz, ciudadano consciente y agente del INAI y estos podrán ser consultados en todo momento por el usuario en el menú de Perfil donde se le brindaran datos sobre su puntuación y logros obtenidos. El usuario tiene en todo momento dehabiliar la opción que le permita poder reintentar los retos hasta que encuentre la respuesta correcta.
+
+De forma adicional la aplicación cuenta con una sección de Conoce+ donde el usuario podrá consultar diferentes conceptos y definiciones importantes en materia de datos personales, esta base de datos contiene 36 elementos.
+
+Los recursos donde se encuentra información detallada de la aplicación y su desarrollo se encuentran en:
+
+• Página oficial de la aplicación:
+
+• Video de la aplicación:
+
+• Presentación CalculaDatos:
+
+• Repositorio GitHub:
+
+• Manual usuario:
+
+• Manual programador:
+
+CalculaDatos es una aplicación que en versiones avanzadas podría mejorar en un futuro para reforzar en el titular la protección de los datos personales, mediante la estimación del riesgo, considerado que tan expuesto esta el titular con relacion al tipo de datos personales que proporciona (valor en $) y los lugares donde los comparte o deposita, esto permitirá generar mayor conciencia para que los titulares identifiquen todos los posibles lugares donde se encuentran sus datos y fomentará el uso de sus derechos ARCO para reducir su nivel de exposición.
 Toda la información relacionada a la aplicación se puede encontrar directamente en la <a href="http://calculadatos.getsir.mx/" target="_blank">Página oficial</a>
 
 ###Documentación
