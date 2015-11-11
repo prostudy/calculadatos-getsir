@@ -59,7 +59,7 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 
 <p>4.- Instalar la aplicación.</p>
 
-###.- Alternativa para probar la aplicación dentro de Android Studio y Xcode
+###* Alternativa para probar la aplicación dentro de Android Studio y Xcode
 
 <p>Si se desea un mayor control sobre la instalación, es posible utilizar los archivos de la carpeta <a href="https://github.com/prostudy/calculadatos-getsir/tree/master/platforms" target="_blank">platforms.</a></p>
 <p>Estos archivos pueden importarse hacia <a href="https://developer.android.com/intl/es/sdk/index.html" target="_blank">Android Studio</a> o hacia <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> segun la plataforma.</p>
