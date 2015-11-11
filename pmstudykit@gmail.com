@@ -1,6 +1,7 @@
 <img src="http://calculadatos.getsir.mx/descargas/images/logo.png" width="50%">
+<hr>
 
-###¿Qué es CalculaDatos?
+#¿Qué es CalculaDatos?
 CalculaDatos es una aplicación que permite al usuario conocer a través de una estimación el valor en pesos de los datos personales, para obtener este resultado se tomo como base la fórmula propuesta por el INAI con algunas modificaciones con el objeto de considerar una clasificación más específica basada en la sensibilidad de los datos personales.
 
 Cuando el usuario realiza un cálculo además de la estimación en pesos obtendrá un listado con los posibles daños que pudiera sufrir en caso de alguna vulneración, relacionada con los tipos de datos seleccionados previamente y asociados a estos daños se le proporcionará un conjunto de tips para mejorar la forma en que proteje los datos personales. El resultado obtenido del cálculo tiene la opción para poder ser compartido en las redes sociales o medios que determine el usuario como una forma de difusión para la aplicación.
@@ -9,19 +10,19 @@ Para lograr un mayor uso de la app y a su vez reforzar la concientización en pr
 
 De forma adicional la aplicación cuenta con una sección de Conoce+ donde el usuario podrá consultar diferentes conceptos y definiciones importantes en materia de datos personales, esta base de datos contiene 36 elementos.
 
-Los recursos donde se encuentra información detallada de la aplicación y su desarrollo se encuentran en:
+ Los recursos donde se encuentra información detallada de la aplicación y su desarrollo se encuentran en:
 
-• Página oficial de la aplicación: <a href="http://calculadatos.getsir.mx/" target="_blank">CalculaDatos</a>
+> ##### Página oficial de la aplicación: <a href="http://calculadatos.getsir.mx/" target="_blank">CalculaDatos</a>
 
-• Video de la aplicación: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4 target="_blank">Video</a>
+> #####  Video de la aplicación: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4 target="_blank">Video</a>
 
-• Presentación CalculaDatos: <a href="#" target="_blank">Presentación</a>
+> #####  Presentación CalculaDatos: <a href="#" target="_blank">Presentación</a>
 
-• Repositorio GitHub: <a href="https://github.com/prostudy/calculadatos-getsir" target="_blank">GitHub</a>
+> #####  Repositorio GitHub: <a href="https://github.com/prostudy/calculadatos-getsir" target="_blank">GitHub</a>
 
-• Manual usuario: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank"> Manual de usuario</a>
+> #####  Manual usuario: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank"> Manual de usuario</a>
 
-• Manual para el desarrollador: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank"> Manual para el desarrollador</a>
+> #####  Manual para el desarrollador: <a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank"> Manual para el desarrollador</a>
 
 CalculaDatos es una aplicación que en versiones avanzadas podría mejorar en un futuro para reforzar en el titular la protección de los datos personales, mediante la estimación del riesgo, considerado que tan expuesto esta el titular con relacion al tipo de datos personales que proporciona (valor en $) y los lugares donde los comparte o deposita, esto permitirá generar mayor conciencia para que los titulares identifiquen todos los posibles lugares donde se encuentran sus datos y fomentará el uso de sus derechos ARCO para reducir su nivel de exposición.
 
