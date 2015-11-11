@@ -38,7 +38,7 @@ Ing. Oscar J. Gascon Busio (PMP)®
 <li>Probar el proyecto por medio de un navegador web en una PC o Mac.</li>
 </ol>
 
-<p>Estos tres procesos estan detallados en el<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a></p>
+<p>Estos tres procesos estan detallados en el<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank"> Manual para el desarrollador</a></p>
 
 
 <p>Aquí se detalla el primer caso, <b>instalar un archivo apk sobre un dispositivo con sistema operativo Android 4.2+:</b></p>
