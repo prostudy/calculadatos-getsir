@@ -67,7 +67,35 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 <p>Si se desea un mayor control sobre la instalación, es posible utilizar los archivos de la carpeta <a href="https://github.com/prostudy/calculadatos-getsir/tree/master/platforms" target="_blank">platforms.</a></p>
 <p>Estos archivos pueden importarse hacia <a href="https://developer.android.com/intl/es/sdk/index.html" target="_blank">Android Studio</a> o hacia <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> segun la plataforma.</p>
 
+Para compilar el proyecto sin utilizar Android Studio o xcode	es necesario	configurar	el	ambiente	de	trabajo,	para	lo	cual	se	necesitará	instalar	algunos	paquetes.
+
+
+Nota:	Se	considera	que	el	ambiente	de	trabajo	será	un	sistema	operativo	Mac	OS	X.	Sin	embargo,	
+también	puede	ejecutarse	esta	guía	sobre	sistemas	operativos	Windows.
+
+
+ 1. Instalar	Node	JS.-		Ingresar	a	la	página	oficial	de	Node	JS	https://nodejs.org/en/ y	
+descargar	la	versión	estable.
+ 2. Instalar	cordova	y	ionic	framework.- Utilizando	una	Terminal	ejecutar	el	siguiente	
+comando:
+
+> $ npm install -g cordova ionic
+
+Se	deben	tener	permisos	de	administrador	para	instalar	estos	paquetes.
+
+Para	mayor	información	consultar	la	página	oficial	de	Ionic	Framework	
+http://ionicframework.com/getting-started/
+
+ 3.- Clonar	el	repositorio	privado	en	donde	se	encuentra	el	proyecto	o	en	su	defecto	
+descargar	el	zip.	 https://github.com/prostudy/calculadatos-getsir.git
+
+* 4.- Ingresar	por	medio	de	una Terminal	al	directorio	en	donde	han	sido	extraídos	los	archivos	
+de	la	aplicación y ejecutar el comando:
+
+> ogascon@ONLINE-OSCAR-GASCON /A/X/x/h/CalculaDatosDev>ionic build android
+
 <hr>
+
 ###Screenshots
 
 <img src="http://calculadatos.getsir.mx/descargas/images/Pantalla de la Calculadora.png" width="35%"/>
