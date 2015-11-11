@@ -12,7 +12,7 @@ De forma adicional la aplicación cuenta con una sección de Conoce+ donde el us
 
 > ##### Página oficial de la aplicación: <a href="http://calculadatos.getsir.mx/" target="_blank">CalculaDatos</a>
 
-> #####  Video de la aplicación: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4 target="_blank">Video</a>
+> #####  Video de la aplicación: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4" target="_blank">Video</a>
 
 > #####  Presentación CalculaDatos: <a href="#" target="_blank">Presentación</a>
 
