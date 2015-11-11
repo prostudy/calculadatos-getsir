@@ -68,7 +68,7 @@ Esta es la url directa: http://calculadatos.getsir.mx/descargas/android-debug.ap
 <p>Estos archivos pueden importarse hacia <a href="https://developer.android.com/intl/es/sdk/index.html" target="_blank">Android Studio</a> o hacia <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> segun la plataforma.</p>
 
 ### Compilar el proyecto
-Para compilar el proyecto sin utilizar Android Studio o xcode	es necesario	configurar	el	ambiente	de	trabajo,	para	lo	cual	se	necesitará	instalar	algunos	paquetes.
+Para compilar el proyecto sin utilizar Android Studio o Xcode	es necesario	configurar	el	ambiente	de	trabajo,	para	lo	cual	se	necesitará	instalar	algunos	paquetes.
 
 
 Nota:	Se	considera	que	el	ambiente	de	trabajo	será	un	sistema	operativo	Mac	OS	X.	Sin	embargo,	
