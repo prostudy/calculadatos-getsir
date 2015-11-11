@@ -87,13 +87,23 @@ Se	deben	tener	permisos	de	administrador	para	instalar	estos	paquetes.
 Para	mayor	información	consultar	la	página	oficial	de	Ionic	Framework	
 http://ionicframework.com/getting-started/
 
- 3.- Clonar	el	repositorio	privado	en	donde	se	encuentra	el	proyecto	o	en	su	defecto	
+ 3.- Clonar	el	repositorio		en	donde	se	encuentra	el	proyecto	o	en	su	defecto	
 descargar	el	zip.	 https://github.com/prostudy/calculadatos-getsir.git
 
-* 4.- Ingresar	por	medio	de	una Terminal	al	directorio	en	donde	han	sido	extraídos	los	archivos	
+ 4.- Ingresar	por	medio	de	una Terminal	al	directorio	en	donde	han	sido	extraídos	los	archivos	
 de	la	aplicación y ejecutar el comando:
 
 > @CalculaDatosDev> ionic build android
+
+5.- Al terminar de compilar, se muestra un mensaje indicando la ruta donde se generó el archivo .apk:
+
+>BUILD SUCCESSFUL
+<br>Total time: 20.075 secs
+<br>Built the following apk(s):
+    /CalculaDatosDev/platforms/android/build/outputs/apk/android-debug.apk
+    <br>BUILD SUCCESSFUL
+
+6.- Ahora se puede instalar la aplicación copiando este archivo a un dispositivo Android, como se indica en el paso número 3 de la Instalación rápida.
 
 <hr>
 
