@@ -1,8 +1,6 @@
 <img src="http://calculadatos.getsir.mx/descargas/images/logo.png" width="50%">
 <hr>
-
-#¿Qué es CalculaDatos?
-CalculaDatos es una aplicación que permite al usuario conocer a través de una estimación el valor en pesos de los datos personales, para obtener este resultado se tomo como base la fórmula propuesta por el INAI con algunas modificaciones con el objeto de considerar una clasificación más específica basada en la sensibilidad de los datos personales.
+**CalculaDato**s es una aplicación que permite al usuario conocer a través de una estimación el valor en pesos de los datos personales, para obtener este resultado se tomo como base la fórmula propuesta por el INAI con algunas modificaciones con el objeto de considerar una clasificación más específica basada en la sensibilidad de los datos personales.
 
 Cuando el usuario realiza un cálculo además de la estimación en pesos obtendrá un listado con los posibles daños que pudiera sufrir en caso de alguna vulneración, relacionada con los tipos de datos seleccionados previamente y asociados a estos daños se le proporcionará un conjunto de tips para mejorar la forma en que proteje los datos personales. El resultado obtenido del cálculo tiene la opción para poder ser compartido en las redes sociales o medios que determine el usuario como una forma de difusión para la aplicación.
 
@@ -26,22 +24,12 @@ De forma adicional la aplicación cuenta con una sección de Conoce+ donde el us
 
 CalculaDatos es una aplicación que en versiones avanzadas podría mejorar en un futuro para reforzar en el titular la protección de los datos personales, mediante la estimación del riesgo, considerado que tan expuesto esta el titular con relacion al tipo de datos personales que proporciona (valor en $) y los lugares donde los comparte o deposita, esto permitirá generar mayor conciencia para que los titulares identifiquen todos los posibles lugares donde se encuentran sus datos y fomentará el uso de sus derechos ARCO para reducir su nivel de exposición.
 
-
-###Documentación
-<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-de-usuario" target="_blank">Manual de usuario</a>
-
-<a href="https://github.com/prostudy/calculadatos-getsir/wiki/Manual-para-el-desarrollador" target="_blank">Manual para el desarrollador</a>
-
-###Video
-El video de muestra puede descargarse en la desde la página oficial: <a href="http://calculadatos.getsir.mx/descargas/CalculaDatos-Video.mp4" target="_blank">Video de la aplicación</a>
-
-
 ###Autores
 
 M.A. Miriam J. Padilla Espinosa<br/>
 Ing. Oscar J. Gascon Busio (PMP)®
 
-###Instalación rápida
+##Instalación rápida
 
 <p>Para poder probar el proyecto se proponen 3 alternativas, las dos primeras son una forma de instalación rápida, la tercera necesita mayor configuración</p>
 <ol>
