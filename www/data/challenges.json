@@ -39,7 +39,7 @@
     "options": [ { "id": "a", "text": "nombre, telefono particular, email, fotografía."}, { "id": "b", "text": "nombre, email, fotografía, número de cuenta."}, { "id": "c", "text": "nombre, fotografía, telefonocelular, pasatiempos"}, { "id": "d", "text": "nombre, teléfono celular, email"} ],
     "answer": "a",
     "value": 15,					
-    "type":"question",
+    "type":"reverse",
     "level":"citizen",
     "version":"1.0"
  },

@@ -91,10 +91,10 @@ angular.module('starter.controllers')
 	  $scope.shareAnywhere = function() {
 		  var numData = $scope.totalStandardObject.numDataEstandar + $scope.totalSensibleObject.numDataSensible + $scope.totalCriticalObject.numDataCriticos;
 	        //$cordovaSocialSharing.share("¿Sabías que si proporcionas "+numData+" datos personales, tus datos podrian valer:"+$scope.totalEstimate, "INAI CalculaDatos", "img/logo.png", "http://www.inai.org.mx/");
-	        var message = "Acabo de realizar un cálculo y el valor de "+numData+" datos personales, es de: $"+$scope.totalEstimate +" pesos. ¡Realiza tu cálculo con la app del INAI!";
+	        var message = "Acabo de realizar un cálculo, valor de "+numData+" datos personales, es de: $"+$scope.totalEstimate +" pesos. ¡Inténtalo con la app del INAI!";
 	        var subject = "INAI CalculaDatos";
 	        var file = "http://calculadatos.getsir.mx/descargas/images/calculadatosShare.png";
-	        var link = "http://www.inai.org.mx/";
+	        var link = "http://goo.gl/XMYEoo";//"http://www.inai.org.mx/";
 	        $cordovaSocialSharing.share(message, subject, file, link).then(function(result) {
 		      // Success!
 		    	//console.log("Se compartio correctamente.");
